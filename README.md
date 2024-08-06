@@ -23,6 +23,10 @@ Installation was simple all it required was to install node on the computer
 
 - Run node index.js in the command line of the project and follow instructions
 
+## Test
+
+<iframe src="https://drive.google.com/file/d/1UBjT6wf1yajOqjNkeYRD1Lm9AIVLzcZi/preview" width="640" height="480"></iframe>
+
 ## Credits
 
 TA - Andrea Presto
